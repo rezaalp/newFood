@@ -1,0 +1,11 @@
+{
+"foods": [
+    { "id": 1, "name": "ice cream", "category": "desserts" },
+    { "id": 2, "name": "nasi kunign", "category": "main course" },
+    { "id": 3, "name": "criossant", "category": "pastry" },
+    { "id": 4, "name": "chicken tender", "category": "chicken" },
+    { "id": 5, "name": "red velvet", "category": "cake" },
+    { "id": 6, "name": "steak", "category": "beef" },
+    { "id": 7, "name": "salmon", "category": "sushi" }
+  ]
+}
